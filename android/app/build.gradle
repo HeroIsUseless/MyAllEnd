@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.planreactnative"
+    namespace "com.myallend"
     defaultConfig {
-        applicationId "com.planreactnative"
+        applicationId "com.myallend"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

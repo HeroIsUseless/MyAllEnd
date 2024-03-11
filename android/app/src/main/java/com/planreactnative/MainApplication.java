@@ -1,4 +1,4 @@
-package com.planreactnative;
+package com.myallend;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

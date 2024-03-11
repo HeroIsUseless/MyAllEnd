@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface planreactnativeTests : XCTestCase
+@interface myallendTests : XCTestCase
 
 @end
 
-@implementation planreactnativeTests
+@implementation myallendTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {

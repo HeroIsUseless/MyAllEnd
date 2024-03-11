@@ -195,7 +195,7 @@ ipcMain.handle('open-save-dialog', (_, arg) => {
 ipcMain.handle('open-select-dialog', async (_, arg) => {
   if (win) {
     const openDialogReturnValue = await dialog.showOpenDialog(win, {
-      title: 'select todo file',
+      title: 'select file',
       filters: [{ name: 'txt', extensions: fileType }],
       properties: ['openFile'],
     });
