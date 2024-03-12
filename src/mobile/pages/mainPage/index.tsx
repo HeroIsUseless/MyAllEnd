@@ -1,6 +1,8 @@
 import React, { useEffect, useRef, useState } from "react";
 import { AppState, StyleSheet, View } from "react-native";
 import { useDispatch, useSelector } from "react-redux";
+import { Button } from "@ant-design/react-native";
+import tw from 'twrnc';
 
 export default () => {
   const dispatch = useDispatch();
@@ -22,6 +24,9 @@ export default () => {
 
   return (
     <View style={styles.mainPage}>
+      <View style={tw`bg-red-500 h-50`}>
+        <Button>hello world</Button>
+      </View>
     </View>
   );
 };
