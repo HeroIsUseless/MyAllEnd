@@ -9,7 +9,7 @@
     "email": "3256384696@qq.com",
     "url": "http://heroisuseless.github.com/"
   },
-  "license": "GPL-3.0-or-later",
+  "license": "MIT License",
   "private": true,
   "debug": {
     "env": {
