@@ -25,7 +25,7 @@ export default () => {
   return (
     <View style={styles.mainPage}>
       <View style={tw`bg-red-500 h-50`}>
-        <Button>hello world</Button>
+        <Button>click me</Button>
       </View>
     </View>
   );
