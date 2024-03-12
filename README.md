@@ -1,6 +1,6 @@
 # MyAllEnd
 
-All-end and all-stack resolution based on JavaScript
+Multi-Platform and full-stack, All in one
 
 ## usage
 ```

@@ -511,7 +511,7 @@
 				DEVELOPMENT_TEAM = TVZD59BDD3;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = myallend/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "MyAllEnd";
+				INFOPLIST_KEY_CFBundleDisplayName = MyAllEnd;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -543,7 +543,7 @@
 				CURRENT_PROJECT_VERSION = 1.0.0;
 				DEVELOPMENT_TEAM = TVZD59BDD3;
 				INFOPLIST_FILE = myallend/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "MyAllEnd";
+				INFOPLIST_KEY_CFBundleDisplayName = MyAllEnd;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
