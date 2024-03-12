@@ -8,9 +8,15 @@ Multi-Platform and full-stack, All in one
 ## usage
 ```
 git clone
+
+# for pc
 npm install
 npm run dev:pc
-npm run dev:mobile
+
+# for ios
+npm install
+npm run pod-install
+npm run dev:ios
 ```
 
 ## catalog
