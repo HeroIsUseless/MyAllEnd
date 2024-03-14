@@ -1,6 +1,9 @@
 import type { Config } from 'tailwindcss';
 
 const config: Config = {
+  corePlugins: {
+    preflight: false, // antd confilct
+  },
   content: ['./src/**/*.{js,ts,jsx,tsx,mdx}'],
   theme: {
     extend: {
