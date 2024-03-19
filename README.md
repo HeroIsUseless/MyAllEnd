@@ -38,3 +38,6 @@ src
 * localstore
 * request
 * electron
+
+## help
+如果有问题，或者有建议，请联系维护人：（微信）zhang-4696
