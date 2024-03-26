@@ -6,9 +6,16 @@ Multi-Platform and full-stack, All in one
 ![mobile](./document/mobile.png)
 
 ## usage
-```
-git clone
+prepare your project name
 
+prepare your production name
+```
+git clone https://github.com/HeroIsUseless/MyAllEnd.git
+```
+search 'myallend' in project and replace it by your project name
+
+search 'MyAllEnd' in project and replace it by your production name
+```
 # for pc
 npm install
 npm run dev:pc
@@ -16,6 +23,8 @@ npm run dev:pc
 # for ios
 npm install
 npm run pod-install
+npm run link-all
+npm run build:ios
 npm run dev:ios
 ```
 
@@ -38,6 +47,28 @@ src
 * localstore
 * request
 * electron
+
+## what you should learn
+
+* JavaScript
+* HTML css
+* TypeScript
+* React
+* Redux-Toolkit(RTK)
+* Antd
+* Electron
+* React-Native
+* NextJs
+* NestJs
+* MyApi*
+
+more
+* Sass
+* Tailwind
+* i18n
+* Lottie
+* Lodash 
+* Mitt 
 
 ## help
 如果有问题，或者有建议，请联系维护人：（微信）zhang-4696,备注 MyAllEnd
