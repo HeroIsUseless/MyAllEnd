@@ -6,14 +6,10 @@ Multi-Platform and full-stack, All in one
 ![mobile](./document/mobile.png)
 
 ## usage
-prepare your project name
-
 prepare your production name
 ```
 git clone https://github.com/HeroIsUseless/MyAllEnd.git
 ```
-search 'myallend' in project and replace it by your project name
-
 search 'MyAllEnd' in project and replace it by your production name
 ```
 # for pc
