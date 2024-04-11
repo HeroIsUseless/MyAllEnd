@@ -10,6 +10,7 @@ import {
 import { release } from 'node:os';
 import { join } from 'node:path';
 import { requestPost } from '../api';
+import { runExec } from '../api/cmd';
 import { update } from './update';
 // The built directory structure
 //
@@ -249,5 +250,19 @@ ipcMain.handle('open-select-path-dialog', async (_, arg) => {
     }
   } else {
     return { filePath: '' };
+  }
+});
+
+ipcMain.handle('run-exec', async (_, arg) => {
+  try {
+    if (win) {
+      const { cmdStr, cmdPath } = arg || {};
+      const res = await runExec(cmdStr, cmdPath);
+      return { res, code: 200 };
+    } else {
+      return { res: '', code: 400 };
+    }
+  } catch (e) {
+    return { res: e, code: 500 };
   }
 });
