@@ -1,6 +1,6 @@
 # MyAllEnd
 
-Multi-Platform and full-stack, All in one
+Multi-Platform and Full-Stack, All in one
 
 ![pc](./document/pc.png)
 ![mobile](./document/mobile.png)
