@@ -30,19 +30,12 @@ package.json
 - index.html [for electron]
 - index.tsx [for rn]
 - indexpc.tsx [for electron]
-
+server [nestjs]
 src
 - mobile [react-native]
 - pc [react-electron]
+- app [nextjs]
 - common
-## package
-* i18n
-* redux
-* database
-* file
-* localstore
-* request
-* electron
 
 ## what you should learn
 
