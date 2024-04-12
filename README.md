@@ -59,5 +59,9 @@ more
 * Lodash 
 * Mitt 
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=HeroIsUseless/MyAllEnd&type=Date)](https://star-history.com/#HeroIsUseless/MyAllEnd&Date)
+
 ## help
 如果有问题，或者有建议，请联系维护人：（微信）zhang-4696,备注 MyAllEnd
