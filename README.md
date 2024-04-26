@@ -37,6 +37,9 @@ src
 - app [nextjs]
 - common
 
+## How to use it
+* common folder is designed for common code
+
 ## what you should learn
 
 * JavaScript
