@@ -24,6 +24,7 @@ npm run build:ios
 npm run dev:ios
 ```
 
+[usage](https://github.com/HeroIsUseless/MyAllEnd/blob/master/document/%E6%95%99%E7%A8%8B.md)
 ## catalog
 package.json
 - main [for electron]
