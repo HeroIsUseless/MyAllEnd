@@ -10,10 +10,7 @@ export interface PostRequestAdaptor {
 let _postRequest: PostRequest;
 
 export function initPostFunction(postFunc: PostRequest) {
-  const canUseNet = isDev();
-  if (canUseNet) {
     _postRequest = postFunc;
-  }
 }
 
 export const postRequest: PostRequestAdaptor = (url, data) => {
