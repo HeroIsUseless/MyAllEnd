@@ -2,6 +2,9 @@
 
 Multi-Platform and Full-Stack, All in one
 
+## Why choose MyAllEnd?
+The cross-end framework needs to have two characteristics: span breadth and technical depth. Cross-end breadth means that your application can run on more platforms; Technical depth means that your app can develop more complex features. Unfortunately, the current cross-end frameworks do not perfectly meet these two points. Which cross-end breadth is better, for example, UniApp has no technical depth, which means that it is difficult for you to develop complex features. React Native and Flutter do not have cross-end breadth, and their support for web and computer is in the initial stage. MyAllEnd has both cross-end breadth and technical depth, meaning that you can develop complex applications and support all platforms with one suit of codes.
+
 ![pc](./document/pc.png)
 ![mobile](./document/mobile.png)
 
